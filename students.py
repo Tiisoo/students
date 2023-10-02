@@ -1,3 +1,5 @@
+# This is just data entry, where are you retrieving students with lowestr and highest score, where are he subjects?
+
 # student's biography
 print("STUDENT'S BIOGRAPHY")
 students_list = []
